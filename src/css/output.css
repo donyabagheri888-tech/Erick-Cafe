@@ -1022,6 +1022,9 @@
   .mr-3\.75 {
     margin-right: calc(var(--spacing) * 3.75);
   }
+  .mr-4 {
+    margin-right: calc(var(--spacing) * 4);
+  }
   .mr-4\.25 {
     margin-right: calc(var(--spacing) * 4.25);
   }
